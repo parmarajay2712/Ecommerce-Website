@@ -47,19 +47,19 @@ A high-performance, fully authenticated **E-Commerce Platform** built with **Rea
 
 ### 🏠 **Home Page**
 
-![Home Page](src\assets\ScreenShot\homepage.png)
+![Home Page](src/assets/ScreenShot/homepage.png)
 
 ### 🛍 **Products Page**
 
-![Products](src\assets\ScreenShot\productpage.png)
+![Products](src/assets/ScreenShot/productpage.png)
 
 ### 📄 **Single Product Page**
 
-![Single Product](src\assets\ScreenShot\singleproductpage.png)
+![Single Product](src/assets/ScreenShot/singleproductpage.png)
 
 ### 🛒 **Cart Page**
 
-![Cart](src\assets\ScreenShot\cartpage.png)
+![Cart](src/assets/ScreenShot/cartpage.png)
 
 ---
 
