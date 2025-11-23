@@ -142,7 +142,7 @@ src/
 
 ```bash
 # 1️⃣ Clone repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/parmarajay2712/Ecommerce-Website.git
 
 # 2️⃣ Navigate to project directory
 cd your-repo
