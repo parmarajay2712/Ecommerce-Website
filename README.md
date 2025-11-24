@@ -1,4 +1,4 @@
-# 🌌 **E-Commerce Platform – Modern React + Clerk + Tailwind Store**
+# 🌌 **ECommerce Website – Modern React + Clerk + Tailwind Store**
 
 A high-performance, fully authenticated **E-Commerce Platform** built with **React 18**, **TailwindCSS**, **Clerk Authentication**, **Context API**, and **DummyJSON API**. This project is designed to showcase a modern, responsive, and secure e-commerce experience.
 
